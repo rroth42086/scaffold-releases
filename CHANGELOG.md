@@ -4,6 +4,13 @@ All notable changes to Scaffold are documented here.
 
 ---
 
+## [1.0.2] — 2026-04-03
+
+### New
+- Fixed update checker incorrectly comparing version strings as text (e.g.
+
+---
+
 ## [1.0.1] — 2026-04-02
 
 ### New
