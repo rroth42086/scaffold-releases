@@ -4,6 +4,22 @@ All notable changes to Scaffold are documented here.
 
 ---
 
+## [1.0.3] — 2026-04-03
+
+### New
+- 1 - Added a "Master Publish" automation script to streamline the build and
+- release process.
+- 2 - Fixed a syntax error in version metadata that could prevent the
+- application from launching.
+- 3 - Improved the robustness of version-syncing logic across project
+- configuration files.
+- 4 - Added explicit "Update Safety" messaging to the Update dialog, About
+- box, and README.
+- 5 - Reassured users that preferences and custom templates are preserved
+- during app updates
+
+---
+
 ## [1.0.2] — 2026-04-03
 
 ### New                                                                             
