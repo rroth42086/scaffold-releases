@@ -6,8 +6,15 @@ All notable changes to Scaffold are documented here.
 
 ## [1.0.2] — 2026-04-03
 
-### New
-- Fixed update checker incorrectly comparing version strings as text (e.g.
+### New                                                                             
+  - Fixed update checker incorrectly comparing version strings as text (e.g. 1.0.10 vs 1.0.9 would resolve wrong)                     
+  - Fixed license use-count incrementing on re-installs and re-checks; now only increments on first activation                        
+  - Fixed "Reveal in Finder" button opening the project folder instead of selecting it in its parent   
+  - Fixed DMG packaging including hidden macOS .DS_Store files inside scaffold templates   
+  - Added .gitkeep files to all empty template directories so they survive a clean git clone
+  - Added version mismatch guard to release script — aborts if app version and entered release version don't match
+  - Consolidated three duplicate resource path-finder functions into a single shared helper
+  - Removed redundant internal imports (subprocess, QApplication) already available at module scope  
 
 ---
 
