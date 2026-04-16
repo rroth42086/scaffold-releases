@@ -5,15 +5,31 @@
     <link>https://rroth42086.github.io/scaffold-releases/appcast.xml</link>
     <description>Scaffold release updates</description>
     <item>
-      <title>Scaffold 1.5.0</title>
-      <pubDate>Wed, 15 Apr 2026 22:32:15 -0400</pubDate>
-      <sparkle:version>1.5.0</sparkle:version>
-      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <title>Scaffold 1.6.0</title>
+      <pubDate>Wed, 15 Apr 2026 22:45:10 -0400</pubDate>
+      <sparkle:version>1.6.0</sparkle:version>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[## Scaffold v1.6.0
+
+### What's New
+- See the full changelog in Help > Release Notes inside the app.
+
+### Installation
+1. Download `Scaffold-1.6.0.dmg`
+2. Open the DMG and drag the **Scaffold** folder to **Applications**
+3. On first launch, right-click Scaffold.app → **Open** (required once for unsigned builds)
+
+### System Requirements
+- macOS 13.0 or later
+- Apple Silicon or Intel
+
+### Notes
+This is an unsigned build. macOS will show a Gatekeeper warning on first launch — right-click → Open to bypass it.]]></description>
       <enclosure
-        url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.5.0/Scaffold-1.5.0.dmg"
-        sparkle:edSignature="QLZC5ayOscbLDfOaWubVjl0A+eWuovT1/iqoPO/+TlCoF6getrdo8IPEGZZEgDIhBj4pisyUFRvMqk9K9RGxAg=="
-        length="5621089"
+        url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.6.0/Scaffold-1.6.0.dmg"
+        sparkle:edSignature="PuJxSoJxTVEvGXZy5ooGgDnNZ/Ak50qlfjzSbNNP6S4t+K3SNUJFe9SpKwg+cQ/Nw1tU+48KfqXc0/LCzR0aCw=="
+        length="5621252"
         type="application/octet-stream"/>
     </item>
   </channel>
