@@ -10,25 +10,9 @@
       <sparkle:version>1.5.0</sparkle:version>
       <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[## Scaffold v1.5.0
-
-### What's New
-- See the full changelog in Help > Release Notes inside the app.
-
-### Installation
-1. Download `Scaffold-1.5.0.dmg`
-2. Open the DMG and drag the **Scaffold** folder to **Applications**
-3. On first launch, right-click Scaffold.app → **Open** (required once for unsigned builds)
-
-### System Requirements
-- macOS 13.0 or later
-- Apple Silicon or Intel
-
-### Notes
-This is an unsigned build. macOS will show a Gatekeeper warning on first launch — right-click → Open to bypass it.]]></description>
       <enclosure
         url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.5.0/Scaffold-1.5.0.dmg"
-        sparkle:edSignature="sparkle:edSignature="QLZC5ayOscbLDfOaWubVjl0A+eWuovT1/iqoPO/+TlCoF6getrdo8IPEGZZEgDIhBj4pisyUFRvMqk9K9RGxAg==" length="5621089""
+        sparkle:edSignature="QLZC5ayOscbLDfOaWubVjl0A+eWuovT1/iqoPO/+TlCoF6getrdo8IPEGZZEgDIhBj4pisyUFRvMqk9K9RGxAg=="
         length="5621089"
         type="application/octet-stream"/>
     </item>
