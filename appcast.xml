@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Scaffold Updates</title>
+    <link>https://rroth42086.github.io/scaffold-releases/appcast.xml</link>
+    <description>Scaffold release updates</description>
+    <item>
+      <title>Scaffold 1.1.0</title>
+      <pubDate>Wed, 15 Apr 2026 21:30:37 -0400</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[## Scaffold v1.0.4
+
+Scaffold creates standardized project folder structures for video, motion, and design professionals — After Effects, Premiere Pro, Cinema 4D, DaVinci Resolve, Flame, Final Cut Pro, Photoshop, Illustrator, and InDesign.
+
+### What's New
+- Full macOS native rewrite (Swift/SwiftUI)
+- Sidebar app icons — click to toggle any app in or out of the current project
+- 7-day free trial with one-click licence activation
+- Settings Profile export/import for sharing studio standards across machines
+- Duplicate Project Structure — infer app selection from an existing project folder
+- Float on Top window mode
+- Full built-in help manual (Help → Scaffold Help)
+
+### Installation
+1. Download `Scaffold-1.0.4.dmg`
+2. Open the DMG and drag the **Scaffold** folder to **Applications**
+3. On first launch, right-click Scaffold.app → **Open** (required once for unsigned builds)
+
+### System Requirements
+- macOS 26.2 or later
+- Apple Silicon or Intel (via Rosetta 2)
+
+### Notes
+This is an unsigned build. macOS will show a Gatekeeper warning on first launch — right-click → Open to bypass it. This will be resolved in a future signed release.]]></description>
+      <enclosure
+        url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.1.0/Scaffold-1.1.0.dmg"
+        sparkle:edSignature="sparkle:edSignature="2A8c2KHexjU3ZAYZrXig6y0EA7+ph7w61i7nf+NosSrS14/6uUXuVSxxCbcacJGWquPeSW+6Gn7IAXIYr6AFAw==" length="5624019""
+        length="5624019"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
