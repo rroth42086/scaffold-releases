@@ -5,16 +5,16 @@
     <link>https://rroth42086.github.io/scaffold-releases/appcast.xml</link>
     <description>Scaffold release updates</description>
     <item>
-      <title>Scaffold 1.7.1</title>
-      <pubDate>Tue, 28 Apr 2026 21:06:44 -0400</pubDate>
-      <sparkle:version>20260428</sparkle:version>
-      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <title>Scaffold 1.7.2</title>
+      <pubDate>Tue, 12 May 2026 20:55:33 -0400</pubDate>
+      <sparkle:version>20260512</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's New in 1.7.1</h3><ul></ul>]]></description>
+      <description><![CDATA[<h3>What's New in 1.7.2</h3><ul></ul>]]></description>
       <enclosure
-        url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.7.1/Scaffold-1.7.1.dmg"
-        sparkle:edSignature="G4ijOvAisDLdh57xRLFns70TgpMvthLaqZn6KaWLg54EYFxtOgo/QvA48Q/3E7021Iq1X2ozY4IKWnF/srdqDg=="
-        length="5909766"
+        url="https://github.com/rroth42086/scaffold-releases/releases/download/v1.7.2/Scaffold-1.7.2.dmg"
+        sparkle:edSignature="6eH31w7Xyv++Rq0KhMKwMxFUpIR9btSULg4P0ONnFnkFbeYVhcW0Qz/kQxWjiEubjCSdYgk4vU1Q76k9nvFsDA=="
+        length="5915885"
         type="application/octet-stream"/>
     </item>
   </channel>
