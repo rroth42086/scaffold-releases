@@ -6,15 +6,15 @@
     <description>Scaffold release updates</description>
     <item>
       <title>Scaffold 2.0.3</title>
-      <pubDate>Mon, 01 Jun 2026 17:04:45 -0400</pubDate>
-      <sparkle:version>20260601</sparkle:version>
+      <pubDate>Sat, 06 Jun 2026 13:39:34 -0400</pubDate>
+      <sparkle:version>20260606</sparkle:version>
       <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's New in 2.0.3</h3><ul></ul>]]></description>
+      <description><![CDATA[<h3>What's New in 2.0.3</h3>]]></description>
       <enclosure
         url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.0.3/Scaffold-2.0.3.dmg"
-        sparkle:edSignature="0bX90pJjwufpHdi+L8Xcwxaev+/2KOBhE17Vwnl1yM2Zu7oTNxmMmiDKVS2IoUTciWc3IpQmJG9Vf9iMX6JCCg=="
-        length="6098925"
+        sparkle:edSignature="6pxqdHtsRwc0VuJmBa0b/pBfXT4nznrxIRIgPpjrtvZGUqaQpngIywuS/0ul2wW/yHKdeeqJ9rwaiM2Ku5daDw=="
+        length="6098926"
         type="application/octet-stream"/>
     </item>
   </channel>
