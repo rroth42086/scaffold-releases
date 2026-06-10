@@ -5,16 +5,16 @@
     <link>https://rroth42086.github.io/scaffold-releases/appcast.xml</link>
     <description>Scaffold release updates</description>
     <item>
-      <title>Scaffold 2.0.5</title>
-      <pubDate>Wed, 10 Jun 2026 18:17:10 -0400</pubDate>
+      <title>Scaffold 2.0.6</title>
+      <pubDate>Wed, 10 Jun 2026 18:30:47 -0400</pubDate>
       <sparkle:version>20260610</sparkle:version>
-      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's New in 2.0.5</h3><ul></ul>]]></description>
+      <description><![CDATA[<h3>What's New in 2.0.6</h3><ul></ul>]]></description>
       <enclosure
-        url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.0.5/Scaffold-2.0.5.dmg"
-        sparkle:edSignature="5m69pumV9VFodhI4mcSRiU63/dFNfPXljPksWMbIGxuj3xcF7U2HZsGCxeLNXjhFzVcCC8mpVG1pFvt8pH45Bw=="
-        length="6114808"
+        url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.0.6/Scaffold-2.0.6.dmg"
+        sparkle:edSignature="b4p2oc66lhM8C3Ra623rTX4osxiZXe9r/Szt/0xJYbj/44mw7bwQvUFi6iRp9uIlVyYxGnZAr/O4Vzm36Y6iCg=="
+        length="6118691"
         type="application/octet-stream"/>
     </item>
   </channel>
