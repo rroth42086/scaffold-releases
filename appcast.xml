@@ -10,7 +10,7 @@
       <sparkle:version>1782001584</sparkle:version>
       <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's New in 2.0.9</h3><ul></ul>]]></description>
+      <description><![CDATA[<h3>What's New in 2.0.9</h3><ul><li>Added a Flame media panel workspace editor — define reel groups, standalone reels, and batch groups that get pre-built into every new Flame project's desktop automatically, matching your studio's conventions.</li><li>Added "Show in Finder" quick links next to the Starters Folder and Structure Folder fields in Preferences, the main window's Basic panel, and first-launch onboarding.</li><li>Fixed a bug causing Scaffold to fail to launch on older Macs — the app was incorrectly requiring macOS 26.2; it now correctly supports macOS 13 Ventura and later.</li></ul>]]></description>
       <enclosure
         url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.0.9/Scaffold-2.0.9.dmg"
         sparkle:edSignature="GOv7kcXKptMWaFs9p9SsyfrTAfrokzTxmk2Kx0xlFka2pwMPFDt+ZtJJTNwWIOjR1bYA/qMC0LuN4qETOmBpCA=="
