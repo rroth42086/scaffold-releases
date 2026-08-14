@@ -5,17 +5,16 @@
     <link>https://rroth42086.github.io/scaffold-releases/appcast.xml</link>
     <description>Scaffold release updates</description>
     <item>
-      <title>Scaffold 2.1.0</title>
-      <pubDate>Tue, 11 Aug 2026 22:09:48 -0400</pubDate>
-      <sparkle:version>1786500364</sparkle:version>
-      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <title>Scaffold 2.1.1</title>
+      <pubDate>Fri, 14 Aug 2026 10:35:45 -0400</pubDate>
+      <sparkle:version>1786716362</sparkle:version>
+      <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h3>What's New in 2.1.0</h3><ul><li>Fixed Flame archive scripts referencing the wrong Flame version — Scaffold now detects your installed Flame version live (via Autodesk's own current-version marker) instead of assuming a hardcoded default, so archive scripts always target the correct project name, even after you update Flame.</li>
-<li>Cleaned up the default project folder structure — removed unused exports, raw, and selects folders; Lightroom now lives alongside the other creative app folders in the main project folder instead of sitting at the top level.</li></ul>]]></description>
+      <description><![CDATA[<h3>What's New in 2.1.1</h3><ul></ul>]]></description>
       <enclosure
-        url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.1.0/Scaffold-2.1.0.dmg"
-        sparkle:edSignature="qs3+sWapyD67hgCberoH0wsZBaLYJZotFTBPVRDD/99pSIQPVCUforvL+BBS9yqgsYdLkXBulYvApy0v6a0NDw=="
-        length="6292021"
+        url="https://github.com/rroth42086/scaffold-releases/releases/download/v2.1.1/Scaffold-2.1.1.dmg"
+        sparkle:edSignature="H+VGnC9+6Dg2J39xt8pv5LaWbo8JdHZnEy+R1guFceR4gpscynucZQSSGBvxcw9vV4T8MtqwEsyFY8cHrjfUAw=="
+        length="6292173"
         type="application/octet-stream"/>
     </item>
   </channel>
